@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top-head{
+    background-color: #02304e;
+}
+.header-img{
+    margin-top: 40px;
+    width: 60px;
+}
+
+.header-text{
+    margin-top: 150px;
+    color: #fff;
+}
+.about-img{
+    margin-top: 90px;
+    width: 620px;
+    height: 300px;
+}
+.about-text{
+    font-weight: 600;
+    margin-top: 170px;
+    font-size: 48px;
+}
+.about-our-text{
+    font-weight: 600;
+    margin-top: 150px;
+    font-size: 48px;
+}
+p{
+  font-weight: 500;
+}
+.our-mission{
+    margin-bottom: 150px;
+}
+
+.special{
+    background-color: #3a3838; 
+}
+.special-text{
+    font-weight: 600;
+    color: #fff;
+    margin-top: 100px;
+    text-align: center;
+}
+.special-item{
+    background: #ea3a60;
+     height: 80px;
+     width: 80px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     border-radius: 50%;
+     margin-left: 165px;
+}
+.harizantal{
+    border-bottom-style: 2px solid red;
+    border-bottom-width: 20px;
+}
+.special-item a{
+    font-size: 25px;
+    text-decoration: none;
+    color: #fff;
+}
+.special-last{
+     color: #fff;
+     text-align: center;
+     margin-bottom: 90px;
+}
+hr{
+    width: 14%;
+    margin-left: 560px;
+    border-top-style: solid;
+    border-top-color: #ff0037;
+    border-top-width: 3px;
+}
+ 
+.service-icon{
+    margin-top: 60px;
+    background: #0099ff;
+    height: 80px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-left: 165px;
+}
+.service-icon a{
+    font-size: 35px;
+    text-decoration: none;
+    color: #fff;
+}
+.service-item{
+    margin-bottom: 150px;
+}
+.all-client{
+    background: #ea3a60;
+}
+.last-section{
+    background: #252424;
+}
+.last-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.last-icon a{
+  background: #d63637;
+  height: 30px;
+  width: 30px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  text-decoration: none;
+  font-size: 17px;
+  color: #fff;
+}
